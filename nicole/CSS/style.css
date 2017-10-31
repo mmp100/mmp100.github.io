@@ -1,0 +1,21 @@
+body {
+	background: url(gippy.gif);
+}
+h1 {
+	color: #7DFDFE;
+}
+p {
+	color: #7DFDFE;
+}
+a {
+	color: #7DFDFE;
+}
+#page-wrap {
+	width: 650px;
+	margin: 0 auto;
+	text-align: center;
+}
+img {
+	width: 50%;
+	height: 50%;
+}

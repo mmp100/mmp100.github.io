@@ -1,0 +1,26 @@
+body {
+	background: #cec2d3;
+	text-align: center;
+}
+#main {
+	width: 1000px;
+	height: 600px;
+	background: #ffffff;
+	margin: 25px auto;
+	
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+a {
+	color: white;
+}
+figcaption {
+	color: white;
+}

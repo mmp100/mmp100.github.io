@@ -1,0 +1,23 @@
+body {
+	background: #87CEFF;
+	text-align: center;
+}
+#main {
+	width: 1000px;
+	height: 600px;
+	background: #87CEFF;
+	margin: 25px auto;
+	
+}
+
+h1 {
+	color: #000000
+}
+
+p {
+	color: #000000
+}
+
+a {
+	color: #000000
+}

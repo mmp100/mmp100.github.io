@@ -1,0 +1,16 @@
+body {
+    background: url(../lightcycle.gif);
+}
+h1 {
+    color: #7DFDFE;
+}
+p {
+	color: #7DFDFE;
+}
+img {
+	padding-top: 5%;
+	width: 295px;
+	height: 275px;
+	background: center;
+	text-align: center;	
+}
