@@ -1,0 +1,29 @@
+body {
+	background-color: #101b2b;
+}
+
+.content {
+    max-width: 960px;
+    margin: auto;
+    background-color: #000711;
+}
+
+.title1 {
+	color: #ffffff;
+	text-align: center;
+	font-family: impact;
+}
+
+#sub1 {
+	background-color: #000711
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 95%;
+}
+
+h2 {
+	color: #ffffff;
+}

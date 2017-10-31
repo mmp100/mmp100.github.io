@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jose Jose</title>
+    <link rel="stylesheet" type="text/css" href="../css/media.css">
+<style>
+  ul {
+    list-style-type: none;
+    margin: 2%;
+    padding: 0%;
+    overflow:hidden;
+    background-color: #333;
+    }
+
+  li {
+    float: left;
+    }
+
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+  li a:hover {
+    background-color: #111;
+    }
+  body {
+    background-color: #464646;
+  }  
+  
+</style>
+
+</head>
+<body>
+  <ul>
+    <li><a href="../Jmidterm.html">Home</a></li>
+    <li><a href="../template/bio.html">Biography</a></li>
+    <li><a href="../template/media.html">Media</a></li>
+  </ul>
+
+   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <script>
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+    function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+  <h1 id="uno">Jose Jose (the prince of song)</h1>
+      <h2 id="dos">Videos</h2>
+     <h2 id="tres">Si me dejas ahora</h2>
+   <video id="cuatro" width="500" height="300" controls>
+     <source src="../videos/ahora.mp4" type="video/mp4">
+   </video>
+   
+   <h2 id="cinco">lo que no fue no sera</h2> 
+  <video id="seis" width="500" height="300" controls>
+    <source src="../videos/sera.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+
+  <h2 id="siete">Almohada</h2>
+   <video id="ocho" width="500" height="300" controls>
+     <source src="../videos/almohada.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+   </video>
+
+   <h2 id="nueve">Desesperado</h2>
+  <video id="diez" width="500" height="300" controls>
+     <source src="../videos/desesperado.mp4" type="video/mp4">
+   </video>
+
+   <h2 id="once">Gotas de fuego</h2>
+  <video id="doce" width="500" height="300" controls>
+     <source src="../videos/fuego.mp4" type="video/mp4">
+  </video>
+
+   <h2 id="trece">Lagrimas</h2>
+  <video id="catorce" width="500" height="300" controls>
+     <source src="../videos/lagrimas.mp4" type="video/mp4">
+  </video>
+
+   <h2 id="quince"><div style="color: #000000">extra:</div>Hotel california - Eagles</h2>
+  <video id="dieciseis" width="500" height="300" controls>
+     <source src="../videos/eagles.mp4" type="video/mp4">
+  </video>
+
+</body>
+</html>
