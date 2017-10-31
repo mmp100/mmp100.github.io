@@ -1,0 +1,31 @@
+body {
+	background-color: #F4F4F4;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	color: #373737;
+	padding-left: 15px;
+}
+
+div {
+	width: 140px;
+	height: 75px;
+	background-color: #DCD0C0;
+	display: inline-block;
+	padding: 15px 15px 15px 15px;
+	background-clip:content-box;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 75px;
+}
+
+a {
+	font-size: 32px;
+	text-decoration: none;
+	color: white;
+}
+
+div:hover {
+	background-color: #C0B263;
+}
