@@ -1,0 +1,32 @@
+body {
+	color: red;
+}
+
+a {
+	color:  red;
+}
+ img {
+ 	width: 250px;
+ }
+
+ .homebg {
+ 	background-image: url("../images/home-bg.jpg");
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ }
+.gallerybg {
+	background-image: url("../images/gallery-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.biobg {
+	background-image: url("../images/bio-bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
