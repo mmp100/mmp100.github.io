@@ -1,0 +1,30 @@
+p, h1 {
+	padding-left: 40px;
+}
+
+p {
+	font-family: "HelvectivaNeue";
+	padding-top: 40px;
+	font-size: 20px;
+}
+
+#grey {
+	color: #9e9e9e;
+}
+
+h1 {
+	padding-top: 15%;
+	padding-right: 200px;
+	font-size: 60px;
+	color: #9e9e9e;
+	font-family: "Times New Roman";
+	font-weight: lighter;
+}
+
+.black_text {
+	color: black;
+}
+
+.underline_text {
+	text-decoration: underline;
+}
